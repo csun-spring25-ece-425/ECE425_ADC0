@@ -10,7 +10,6 @@
 
 #include "TM4C123GH6PM.h"
 #include "SysTick_Delay.h"
-#include "EduBase_LCD.h"
 #include "ADC.h"
 
 static double adc_buffer[8];
